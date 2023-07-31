@@ -7,12 +7,11 @@ import sushi10 from '../sushi_assets/assets/sushi-10.png'
 
 import AOS from "aos";
 import "aos/dist/aos.css";
-
 // init AOS animation
-AOS.init({
-    duration: 1000,
-    offset: 100,
-});
+// AOS.init({
+//     duration: 1000,
+//     offset: 100,
+// });
 
 const trendingSushis = [
     'Make Sushi',
